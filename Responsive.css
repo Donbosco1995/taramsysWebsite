@@ -707,8 +707,8 @@
         letter-spacing: 0;
     }
     .text-box {
-        top: 42%;
-        width: 90%;
+        top: 40%;
+        width: 80%;
     }
 
     .row {
@@ -719,7 +719,7 @@
         /* align-items: center; */
         margin-left: 23%;
         /* top: -5%; */
-        top: 68%;
+        top: 65%;
     }
     
     .bodyContainer .row .course-col img {
@@ -727,7 +727,7 @@
     } 
     .course-col {
         width: 115px;
-        margin: none;
+        margin: 0 5px;
     }
 
     .app {
