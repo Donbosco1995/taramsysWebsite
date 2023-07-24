@@ -215,7 +215,7 @@ nav .fa {
     color: white;
 }
 .analyze1 {
-    margin: 50px 100px;
+    /* margin: 50px 100px; */
     width: 40%;
 }
 .analyze1 .p {
@@ -267,7 +267,7 @@ nav .fa {
    width: 670px;
 }
 .User .img img {
-    margin: 50px 97px 10px 0;  
+    /* margin: 50px 97px 10px 0;   */
     width: 100%;  
 }
 
@@ -289,8 +289,8 @@ nav .fa {
     font-weight: 500;
 }
 .develop1 {
-    width: 30%;
-    margin: 50px 0;
+    width: 32%;
+    /* margin: 50px 0; */
 }
 .develop1 .b {
     font-size: 25px;

@@ -16,7 +16,7 @@
     .hero-btn {
         flex-direction: row;
         padding: 5px 8px 5px 7px;
-        margin: 0 0px 0 -30px;
+        margin: 0 0px 0 -40px;
     }
     .hero-btn p {
         flex-direction: row;
@@ -109,7 +109,7 @@
 
     .analyze1 {
         width: 80%;
-        margin: 50px 15px 30px 20px;
+        /* margin: 50px 15px 30px 20px; */
     }
 
     .Analyze .img {
@@ -555,7 +555,7 @@
     }
 
     .Analyze .img {
-        width: 44%;
+        width: 60%;
         /* margin: 160px 0px; */
     }
 
@@ -686,7 +686,7 @@
         flex-direction: row;
         /* padding: 5px 8px 5px 7px; */
         margin: 40px 0px 40px 0px;
-        margin-right: -25%;
+        margin-right: -18%;
     }
     .hero-btn p {
         flex-direction: row;
@@ -699,22 +699,22 @@
     }
    
     .text-box p {
-        font-size: 37px;
+        font-size: 45px;
         line-height: 63px;
         letter-spacing: 0;
     }
     .text-box {
         top: 41%;
-        width: 80%;
+        width: 90%;
     }
 
     .row {
         display: flex;
         justify-content: space-evenly;
-        width: 65%;
+        width: 55%;
         position: absolute;
         /* align-items: center; */
-        margin-left: 18%;
+        margin-left: 23%;
         /* top: -5%; */
         top: 65%;
     }
@@ -844,7 +844,7 @@
     }
     .foot-row {
         display: flex;
-        padding: 0px;
+        padding: 10px 50px;
     }
     .foot-col {
         width: 300px
