@@ -176,6 +176,9 @@
     .fun-col {
         width: 250px;
     }
+    .imageContainer {
+        padding: 6%;
+    }
     .foot-row {
         flex-direction: column;
         padding: 0px;
