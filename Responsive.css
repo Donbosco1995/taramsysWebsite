@@ -699,12 +699,12 @@
     }
    
     .text-box p {
-        font-size: 45px;
+        font-size: 42px;
         line-height: 63px;
         letter-spacing: 0;
     }
     .text-box {
-        top: 41%;
+        top: 42%;
         width: 90%;
     }
 
@@ -716,7 +716,7 @@
         /* align-items: center; */
         margin-left: 23%;
         /* top: -5%; */
-        top: 65%;
+        top: 67%;
     }
     
     .bodyContainer .row .course-col img {
